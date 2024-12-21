@@ -23,3 +23,20 @@ JavaScript: Adds interactivity and dynamic functionality.
 
 
 ![Screenshot 2024-10-15 114507](https://github.com/user-attachments/assets/dd854cc1-67cd-4684-be8c-0f6c154a7215)
+
+
+# 📦 Installation and Setup
+ **Clone the repository:**
+git clone https://github.com/your-username/food-website.git
+**Navigate to the project folder:**
+cd food-website
+
+Open index.html in your browser.
+
+# 💡 Future Enhancements
+Integration with a backend for dynamic content.
+Adding features like user authentication, cart functionality, and order placement.
+SEO optimization for better visibility.
+
+# **🖋️ Author**
+A Developer passionate about creating engaging web experiences.
