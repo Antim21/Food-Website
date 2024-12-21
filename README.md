@@ -35,8 +35,10 @@ Open index.html in your browser.
 
 # 💡 Future Enhancements
 Integration with a backend for dynamic content.
+
 Adding features like user authentication, cart functionality, and order placement.
+
 SEO optimization for better visibility.
 
 # **🖋️ Author**
-A Developer passionate about creating engaging web experiences.
+Antim21 - A Developer passionate about creating engaging web experiences.
