@@ -27,7 +27,7 @@ JavaScript: Adds interactivity and dynamic functionality.
 
 # 📦 Installation and Setup
  **Clone the repository:**
-git clone https://github.com/your-username/food-website.git
+git clone https://github.com/Antim-21/Food-website
 **Navigate to the project folder:**
 cd food-website
 
