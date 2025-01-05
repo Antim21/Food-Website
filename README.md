@@ -10,7 +10,7 @@ Responsive Design: Optimized for desktops, tablets, and mobile devices.
 Interactive UI: Smooth navigation and visually appealing animations.
 Custom Components: Includes reusable components for scalability and maintainability.
 Thematic Color Scheme: Aesthetic design aligned with food-related visuals.
-
+  
 # **🚀 Technologies Used**    
 HTML5: For the semantic structure of the pages.
 CSS3: Styling and animations for a polished look.
