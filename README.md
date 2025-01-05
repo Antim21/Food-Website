@@ -4,7 +4,7 @@
 
 This is a visually appealing and responsive frontend for a food website, designed to provide an engaging user experience for food enthusiasts. The interface focuses on showcasing menus, dishes, and essential features that a modern food website requires.
 
-# **✨ Features**
+# **✨ Features** 
 
 Responsive Design: Optimized for desktops, tablets, and mobile devices.
 Interactive UI: Smooth navigation and visually appealing animations.
