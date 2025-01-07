@@ -12,7 +12,7 @@ Custom Components: Includes reusable components for scalability and maintainabil
 Thematic Color Scheme: Aesthetic design aligned with food-related visuals.
   
 # **🚀 Technologies Used**                                       
-HTML5: For the semantic structure of the pages.
+HTML5: For the semantic structure of the pages.   
 CSS3: Styling and animations for a polished look.   
 JavaScript: Adds interactivity and dynamic functionality.    
 
