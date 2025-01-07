@@ -8,7 +8,7 @@ This is a visually appealing and responsive frontend for a food website, designe
 
 Responsive Design: Optimized for desktops, tablets, and mobile devices.
 Interactive UI: Smooth navigation and visually appealing animations.    
-Custom Components: Includes reusable components for scalability and maintainability.
+Custom Components: Includes reusable components for scalability and maintainability.     
 Thematic Color Scheme: Aesthetic design aligned with food-related visuals.
   
 # **🚀 Technologies Used**                                       
