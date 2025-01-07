@@ -2,7 +2,7 @@
 
 # **🌟 Project Overview**
 
-This is a visually appealing and responsive frontend for a food website, designed to provide an engaging user experience for food enthusiasts. The interface focuses on showcasing menus, dishes, and essential features that a modern food website requires.
+This is a visually appealing and responsive frontend for a food website, designed to provide an engaging user experience for food enthusiasts. The interface focuses on showcasing menus, dishes, and essential features that a modern food website requires. 
 
 # **✨ Features** 
 
