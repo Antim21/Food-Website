@@ -33,7 +33,7 @@ cd food-website
 
 Open index.html in your browser.
 
-# 💡 Future Enhancements
+# 💡 Future Enhancements   
 Integration with a backend for dynamic content.
 
 Adding features like user authentication, cart functionality, and order placement.
